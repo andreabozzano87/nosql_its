@@ -1,6 +1,6 @@
 # Corso "Basi di dati NoSQL" - ITS 13.2
 
-Verrà allestito un repository su GitHub in cui verrà caricato tutto il codice sviluppato a lezione e nelle esercitazioni, per revisione
+Verrà allestito un [repository su GitHub](https://github.com/andreabozzano87/nosql_its) in cui verrà caricato tutto il codice sviluppato a lezione e nelle esercitazioni, per revisione
 
 ## Prima settimana 12h
 
@@ -33,3 +33,11 @@ Verrà allestito un repository su GitHub in cui verrà caricato tutto il codice 
 
 1. Ripasso
 2. Test finale
+
+## Note e risorse
+
+* [Database NoSQL](https://it.wikipedia.org/wiki/NoSQL)
+* [MongoDB University](https://learn.mongodb.com/)
+* [Cheat Sheet MongoDB](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
+* [Cheat Sheet JOIN SQL di LearnSQL.com](https://learnsql.com/blog/sql-join-cheat-sheet/joins-cheat-sheet-a4.pdf)
+* [Pandas Cheat Sheet](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python)
