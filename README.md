@@ -20,10 +20,17 @@ Verrà allestito un [repository su GitHub](https://github.com/andreabozzano87/no
 2. Operazioni CRUD e client
 3. Aggregation framework
 
+## Quarta parte - MongoDB
+
+1. (Recap-Introduzione) Python - Driver di MongoDB: PyMongo
+2. Aggregation framework e pipeline in Python
+3. Viste, indici, ottimizzazione di query
+4. Esercizi riepilogativi
+
 ## Test finale - valutazione
 
-1. Test a risposta multipla (~ 20 domande) - peso da stabilire
-2. Presentazione facotativa su una tecnologia NoSQL concordata - peso da stabilire
+1. Test a risposta multipla (~ 20 domande) - valutazione in 100mi
+2. Presentazione facotativa su una tecnologia NoSQL concordata - massimo +15 punti sul voto dello scritto
 
 ## Note e risorse
 
