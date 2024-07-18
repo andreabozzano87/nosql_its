@@ -1,5 +1,7 @@
 # Corso "Basi di dati NoSQL" - ITS 13.2
 
+Oggi hanno portato la focaccia
+
 Verrà allestito un [repository su GitHub](https://github.com/andreabozzano87/nosql_its) in cui verrà caricato tutto il codice sviluppato a lezione e nelle esercitazioni, per revisione
 
 ## Prima parte - "Big Data"
